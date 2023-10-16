@@ -1,0 +1,12 @@
+[07/13/13 22:21:01] Command registeration completed
+
+================================== Agent configure info ==================================
+[07/13/13 22:21:01] Release Date : Jul 13 2013
+===========================================================================================
+
+[07/13/13 22:21:01] Match Agent Created (Port:5100)
+[07/13/13 22:21:01] MMatchAgent::ConnectToMatchServer BEGIN 
+[07/13/13 22:21:01] Request Connect to matchserver ip(192.168.1.63), port(6000).
+[07/13/13 22:21:22] Failed to Connect to MatchServer (Err:-1)
+[07/13/13 22:21:22] MMatchAgent::ConnectToMatchServer END 
+RealCPNet> SessionCreated=2, SessionDestroyed=1 

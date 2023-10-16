@@ -1,0 +1,9 @@
+[07/16/13 21:11:12] Command registeration completed
+
+================================== Agent configure info ==================================
+[07/16/13 21:11:12] Release Date : Jul 16 2013
+===========================================================================================
+
+[07/16/13 21:11:12] Match Agent Created (Port:5100)
+[07/16/13 21:11:12] MMatchAgent::ConnectToMatchServer BEGIN 
+[07/16/13 21:11:12] Request Connect to matchserver ip(192.168.1.63), port(6000).
